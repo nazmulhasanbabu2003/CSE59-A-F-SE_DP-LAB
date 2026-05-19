@@ -162,13 +162,27 @@ The WorkSync is a standalone web application, integrating with external services
 
 ## 4. System Models
 
-> **❖ DIAGRAMS INCLUDED IN SPECIFICATION:**
+
 > * **CONTEXT DIAGRAM**
+<img src="images/2. Context Model.png">
+
 > * **ACTIVITY DIAGRAM**
-> * **USE CASE DIAGRAMS** 
+
+<img src="images/3. Activity Diagram.png" alt="Activity Diagram">
+
+> * **USE CASE DIAGRAMS**
+<img src="images/4. Use Case Diagrams_page-0001.jpg" alt="Use Case Diagrams Page 1">
+<img src="images/4. Use Case Diagrams_page-0002.jpg" alt="Use Case Diagrams Page 2">
+<img src="images/4. Use Case Diagrams_page-0003.jpg" alt="Use Case Diagrams Page 3">
+<img src="images/4. Use Case Diagrams_page-0004.jpg" alt="Use Case Diagrams Page 4"> 
+
 > * **SEQUENCE DIAGRAM**
+
 > * **ENTITY-RELATIONSHIP DIAGRAM**
+<img src="images/6. ER Diagram.png" alt="ER Diagram">
+
 > * **STATE DIAGRAM**
+<img src="images/7. State Diagram.png" alt="State Diagram">
 
 ---
 
